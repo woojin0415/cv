@@ -55,8 +55,8 @@
 </head>
 <body>
     <header>
-        <h1>John Doe</h1>
-        <p>Seoul, South Korea<br/> email@email.com | +82-10-1234-5678 | <a href="https://github.com/yourgithub" target="_blank">GitHub</a></p>
+        <h1>Woojin Park</h1>
+        <p>Kimpo, South Korea<br/> woojin415@gmail.com | +82-10-5325-4609 | <a href="https://github.com/yourgithub" target="_blank">GitHub</a></p>
     </header>
 
     <section>
@@ -68,8 +68,9 @@
         <h2 class="section-title">Education</h2>
         <ul>
             <li>
-                <div class="item-title">Seoul National University, Seoul, South Korea</div>
-                <div>Bachelor of Engineering, Major in Computer Engineering — Mar 2019 to Feb 2023</div>
+                <div class="item-title">Chungbuk National University, Cheongju, South Korea</div>
+                <div>Bachelor of Engineering, Major in Computer Engineering — Mar 2016 to Feb 2023</div>
+                <div>Master of Science, Major in Computer Engineering — Mar 2023 to Feb 2025</div>
             </li>
             <!-- Add more education entries if needed -->
         </ul>
@@ -100,33 +101,13 @@
     </section>
 
     <section>
-        <h2 class="section-title">Awards / Certifications</h2>
-        <ul>
-            <li>IEEE Outstanding Student Award, 2022</li>
-            <li>Capstone Design Excellence Award, 2021</li>
-            <!-- Add additional awards or certifications -->
-        </ul>
-    </section>
-
-    <section>
         <h2 class="section-title">Skills</h2>
         <ul>
             <li>Programming: Python, C++, Java</li>
-            <li>Technologies: Machine Learning, Computer Vision, Data Analysis</li>
+            <li>Technologies: Machine Learning, Data Analysis, Network Programming, Sensing Programming with Raspberry PI, Mobile Programming </li>
             <li>Languages: Korean (native), English (fluent)</li>
         </ul>
     </section>
 
-    <section>
-        <h2 class="section-title">Activities / Volunteering</h2>
-        <ul>
-            <li>
-                <div class="item-title">Capstone Club Activities</div>
-                <div class="date">March 2020 - February 2022</div>
-                <div>Description of activities and roles</div>
-            </li>
-            <!-- Add more activities if needed -->
-        </ul>
-    </section>
 </body>
 </html>
